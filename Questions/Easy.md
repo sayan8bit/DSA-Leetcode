@@ -1,5 +1,11 @@
-- Queations Answers of Leetcode
+- Queations Answers of Leetcode (Easy)
 
-| S/L | Leetcode No. | Questions |
-|-----|--------------|-----------|
-| 1 | 169 | Majority Element |
+|Array|
+
+| S/L | Leetcode No. | Questions                        |
+| --- | ------------ | -------------------------------- |
+| 1   | 169          | Majority Element                 |
+| 2   | 2965         | Find Missing and Repeated Values |
+| 3   | 88           | Merge Sorted Array               |
+| 4   | 136          | Single Number                    |
+| 5   | 121          | Best Time to Buy and Sell Stock  |
