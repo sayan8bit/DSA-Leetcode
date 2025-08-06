@@ -9,3 +9,39 @@
 | 3   | 88           | Merge Sorted Array               |
 | 4   | 136          | Single Number                    |
 | 5   | 121          | Best Time to Buy and Sell Stock  |
+
+2.     String
+| S/L | Leetcode No. | Questions                        |
+| --- | ------------ | -------------------------------- |
+||||
+||||
+||||
+
+3.     Linked list
+| S/L | Leetcode No. | Questions                        |
+| --- | ------------ | -------------------------------- |
+||||
+||||
+||||
+||||
+||||
+
+
+4. Stack & Queue
+| S/L | Leetcode No. | Questions                        |
+| --- | ------------ | -------------------------------- |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+
+
+
+
+
+
+
