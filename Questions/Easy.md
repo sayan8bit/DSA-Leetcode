@@ -1,9 +1,4 @@
-1.          Leetcode no.    |    Questions
-
-1.          169            Majority Element
-
-
-
+- Queations Answers of Leetcode
 
 | S/L | Leetcode No. | Questions |
 |-----|--------------|-----------|
