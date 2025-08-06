@@ -1,6 +1,6 @@
 - Queations Answers of Leetcode (Easy)
 
-|Array|
+1.     Array
 
 | S/L | Leetcode No. | Questions                        |
 | --- | ------------ | -------------------------------- |
