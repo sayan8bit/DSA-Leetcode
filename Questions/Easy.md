@@ -8,3 +8,10 @@
 | Alice   | 25  | New York   |
 | Bob     | 30  | San Francisco |
 | Charlie | 22  | Seattle    |
+
+
+|Name|Age|City|
+|---|---|---|
+|Alice|25|New York|
+|Bob|30|San Francisco|
+|Charlie|22|Seattle|
